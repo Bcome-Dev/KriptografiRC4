@@ -13,4 +13,4 @@ Repositori ini berisi implementasi murni algoritma kriptografi *Stream Cipher* R
    git clone https://github.com/Bcome-Dev/KriptografiRC4
 
 ## Tautan Video
-
+   https://youtu.be/CheWPIfK2E8?si=dMhvwYwLqfjGxsP_
