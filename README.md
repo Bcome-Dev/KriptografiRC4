@@ -10,5 +10,7 @@ Repositori ini berisi implementasi murni algoritma kriptografi *Stream Cipher* R
 1. **Buka Terminal:**
 
 2. **Kloning Repositori (Clone):**
-   git clone [MASUKKAN_LINK_GITHUB_KAMU_DI_SINI]
-   cd [NAMA_FOLDER_REPOSITORI_KAMU]
+   git clone https://github.com/Bcome-Dev/KriptografiRC4
+
+## Tautan Video
+
